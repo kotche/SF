@@ -9,6 +9,8 @@ def game_core_v3(number):
     count = 1
 
     number_list = [x for x in range(1, 101)]
+    number_list.sort()
+
     low_index = 0
     mid_index = len(number_list) // 2
     high_index = len(number_list) - 1
