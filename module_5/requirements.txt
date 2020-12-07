@@ -102,7 +102,7 @@ convertdate==2.2.2
 conx==3.7.10
 cookiecutter==1.7.0
 coverage==5.3
-cryptography==2.8
+cryptography==3.2
 cssselect2==0.4.1
 cufflinks==0.17.3
 CVXcanon==0.1.2
