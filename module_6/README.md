@@ -6,7 +6,7 @@ Tensorflow
 EfficientNetB6  
 ImageDataAugmentor  
 
-**Метрика**
+**Метрика**  
 Accuracy
 
 Ссылка на kaggle: https://www.kaggle.com/c/sf-dl-car-classification/leaderboard (ник Kotcher)
