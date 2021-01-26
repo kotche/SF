@@ -20,5 +20,5 @@ ML. Credit Scoring. Прогнозирование вероятности деф
 module_5:   
 ML. Car Price prediction. Прогнозирование стоимости автомобиля по характеристикам  
 
-module_6:
-DL. Car classification. Классифицируем автомобиль по картинке
+module_6:  
+DL. Car classification. Классифицируем автомобиль по картинке  
