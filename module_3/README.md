@@ -9,6 +9,6 @@
 -примете участие в соревновании на kaggle.  
 -поймете, как правильно «готовить» данные, чтобы ваша модель работала лучше.  
 
-
-Ссылка на kaggle: https://www.kaggle.com/kotcherds/sf-tripadvisor-rating-kotcher
+Ник на kaggle: Kotcher
+Ссылка на kaggle: https://www.kaggle.com/c/sf-dst-restaurant-rating/leaderboard
 
