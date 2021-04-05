@@ -21,4 +21,7 @@ module_5:
 ML. Car Price prediction. Прогнозирование стоимости автомобиля по характеристикам  
 
 module_6:  
-DL. Car classification. Классифицируем автомобиль по картинке  
+DL. Car classification. Классифицируем автомобиль по картинке
+
+module_7:   
+DL. Car Price prediction Part2. Прогнозирование стоимости автомобиля по характеристикам, описанию и фотографии
